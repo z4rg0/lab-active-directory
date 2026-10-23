@@ -139,7 +139,7 @@ Era la unidad de CD/DVD apuntando a un ISO ya no disponible. Solución: desmarca
 - [x] Crear la VM de Windows 11, configurar su IP y DNS, y unirla al dominio
 - [x] Crear una GPO, aplicarla con `gpupdate /force` y comprobarla
 - [x] Hacer snapshots de las dos VMs
-- [ ] Revisar eventos de inicio de sesión en el Visor de eventos
+
 
 ## Notas
 
